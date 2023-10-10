@@ -46,7 +46,7 @@ button {
 .button2 {
   background: crimson;
   margin-left: 25px;
-  transition-duration: 0.5s;
+  transition-duration: 1.5s;
 }
 
 .button2:hover {
@@ -60,7 +60,7 @@ button {
 }
 
 .button1 {
-  transition-duration: 0.5s;
+  transition-duration: 1.5s;
   background-color: cyan;
 }
 
@@ -70,4 +70,10 @@ ol {
 
 span {
   font-variant: small-caps;
+}
+
+div {
+  border: solid black;
+  border-radius: 5px;
+  background: powderblue;
 }
